@@ -12,7 +12,7 @@ class rocket:
     types = "Space Rockets"
     
 ```
-## Using functions within the class:
+## Using functions within the class (_init_, self):
 
 Then within this call we can use a function, and this function will have *_Init_* which is known as a constructor in object oriented concepts, this method  called when an object is created from the class and it allow the class to initialize the attributes of a class. 
 Example: Let's consider the "name" and the "year" which these rockets where launched.
